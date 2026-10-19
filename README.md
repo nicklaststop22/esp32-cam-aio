@@ -2,7 +2,7 @@
 
 An autonomous, full-featured security camera and DVR running on a single **AI-Thinker ESP32-CAM** ($6 board). Combines an OV2640 camera, a hardware PIR motion sensor, FAT32 MicroSD video recording, and a responsive web control dashboard.
 
-Also includes sketches for an optional **dual-module distributed setup** communicating over peer-to-peer ESP-NOW radio.
+Also includes sketches for an optional **dual-module distributed setup** communicating over peer-to-peer ESP-NOW radio. (These used to live in their own repo, [esp32cam-security-hub](https://github.com/nicklaststop22/esp32cam-security-hub) — merged in here since the sketches were identical; that repo now just points back here.)
 
 ---
 
